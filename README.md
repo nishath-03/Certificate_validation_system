@@ -1,10 +1,6 @@
 # Certificate Validation using Blockchain
 
----
 
-You can read my article on [Medium](https://medium.com/@sahilkadam257/certificate-validation-using-blockchain-3c560fd1738c) to get a better overall understanding of this project.
-
----
 
 ## Introduction
 
